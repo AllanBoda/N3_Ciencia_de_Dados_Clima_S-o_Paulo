@@ -6,9 +6,8 @@ Este projeto consolida o aprendizado da disciplina de Ciência de Dados, aplican
 **Data de Entrega:** 01/12/2025
 
 ## Integrantes do Grupo
-* [Nome do Aluno 1]
-* [Nome do Aluno 2]
-* [Nome do Aluno 3] (se houver)
+* Lucas Daniel Gomes
+* Lucas De Carvalho Steffens
 
 ---
 
