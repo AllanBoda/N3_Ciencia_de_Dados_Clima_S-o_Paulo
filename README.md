@@ -82,7 +82,7 @@ Para resolver o problema de regressão, foram treinados e avaliados três algori
 
   - R² (R-Squared): Indica o quão bem as variáveis explicam a variação do PM2.5.
 
-## 4. Como Executar (Google Colab) 🚀
+## 4. Como Executar (Google Colab)
 Você pode executar este projeto diretamente no navegador utilizando o Google Colab.
 
 Passo a Passo no Colab:
@@ -125,4 +125,3 @@ novo_dado = novo_dado.reindex(columns=colunas_esperadas, fill_value=0)
 # 3. Fazer a previsão
 previsao = modelo.predict(novo_dado)
 print(f"Concentração Prevista de PM2.5: {previsao[0]:.2f} µg/m³")
-´´´
