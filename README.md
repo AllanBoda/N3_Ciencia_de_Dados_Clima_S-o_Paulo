@@ -96,7 +96,7 @@ Passo a Passo no Colab:
 
 ## 5. Deploy do Modelo 
 O modelo final foi salvo no arquivo modelo_final.pkl. Para utilizá-lo em produção para fazer novas previsões:
-```mermaid
+```
 import joblib
 import pandas as pd
 
